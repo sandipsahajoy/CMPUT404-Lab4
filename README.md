@@ -1,2 +1,2 @@
 # CMPUT404-Lab4
-Django
+Create a basic poll application with Django
